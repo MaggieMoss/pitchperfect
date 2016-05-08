@@ -22,7 +22,7 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "PlaySoundsViewController.swift"
@@ -35,7 +35,7 @@
             landmarkType = "3">
             <Locations>
                <Location
-                  shouldBeEnabled = "Yes"
+                  shouldBeEnabled = "No"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
                   symbolName = "Pitch_Perfect.PlaySoundsViewController.__deallocating_deinit"
@@ -50,7 +50,7 @@
                   offsetFromSymbolStart = "12">
                </Location>
                <Location
-                  shouldBeEnabled = "Yes"
+                  shouldBeEnabled = "No"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
                   symbolName = "Pitch_Perfect.PlaySoundsViewController.init (Pitch_Perfect.PlaySoundsViewController.Type)(coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;Pitch_Perfect.PlaySoundsViewController&gt;"
